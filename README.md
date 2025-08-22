@@ -7,3 +7,4 @@ O "TrocaAudio" é um script que ao clicar no botão de contexto do teclado (fica
 
 # Volume.ahk
 O "Volume" é um script que ao segurar Shift Direito, pode-se alterar o volume do PC via setas Cima e Baixo, intuitivamente, RShift + Cima aumenta o volume, e RShift + Baixo diminui o volume. Fiz isso pois meu teclado não tem uma teclas de multimídia.
+![Demonstração](assets/Volume.gif)
